@@ -1,4 +1,5 @@
-###collaboration works platform by Play Scala
+## 
+### chat for collaboration works by Play Scala
 
 A Chat room built using WebSockets. Additionally there is a bot used speaking on the same chat room. It demonstrates:
 
